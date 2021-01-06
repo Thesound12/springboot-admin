@@ -1,0 +1,9 @@
+server:
+  port: 8768
+
+spring:
+  application:
+    name: admin-client2
+  boot:
+    admin:
+      url: http://localhost:8769
